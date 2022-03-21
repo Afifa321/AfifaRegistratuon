@@ -1,0 +1,56 @@
+*{
+	margin:10px;
+	padding:10px;
+}
+body
+{
+	background : url("b5.jpg");
+	background-size:200;
+	background-position : 400px 400px;
+}
+h2
+{
+	color:black;
+	text-align:center;
+	padding :10px;
+    font-family:sans-serif;
+}div.main
+{
+	width:400px;
+	margin:10px auto 0px auto;   
+}
+div.main
+{
+	width:400px;
+	margin:100px auto 0px auto;   
+}
+label
+{
+  font-family:sans-serif;
+  font-size:18px;
+  font-style:italic;
+}
+label,span,h2
+{
+	text-shadow:2px 2px 5px rgba(0,0,0,0.3);
+}
+input#Login
+{
+	width:200px;
+	padding:7px;
+	font-size:16px;
+	font-family:sans-serif;
+	font-width:600;
+	border-radius:3px;
+	background-color:rgba(250,100,0,0.8);
+	color:#fff;
+	cursor:pointer;
+	border:1px solid rgba(255,255,255,0.3);
+	box-shadow:1px 1px 5px ;
+	rgba(0,0,0,0.3);
+	margin-bottom:20px;
+}
+a:active
+{
+	color:black;
+}
