@@ -5,7 +5,7 @@
 body
 {
 	background : url("b5.jpg");
-	background-size:200;
+	background-size:cover;
 	background-position : 400px 400px;
 }
 h2
